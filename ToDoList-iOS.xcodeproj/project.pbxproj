@@ -33,6 +33,7 @@
 		E48EFB892BAC67790015A7D1 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48EFB882BAC67790015A7D1 /* RegisterViewViewModel.swift */; };
 		E48EFB8B2BAC67990015A7D1 /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48EFB8A2BAC67990015A7D1 /* ToDoListItemViewViewModel.swift */; };
 		E48EFB8D2BB07E970015A7D1 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48EFB8C2BB07E960015A7D1 /* HeaderView.swift */; };
+		E48EFB8F2BB80C040015A7D1 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48EFB8E2BB80C040015A7D1 /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,7 @@
 		E48EFB882BAC67790015A7D1 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		E48EFB8A2BAC67990015A7D1 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		E48EFB8C2BB07E960015A7D1 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		E48EFB8E2BB80C040015A7D1 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 				E48EFB762BAC652D0015A7D1 /* RegisterView.swift */,
 				E48EFB782BAC65720015A7D1 /* ToDoListItemView.swift */,
 				E48EFB8C2BB07E960015A7D1 /* HeaderView.swift */,
+				E48EFB8E2BB80C040015A7D1 /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -343,6 +346,7 @@
 				E48EFB7F2BAC66F30015A7D1 /* MainViewViewModel.swift in Sources */,
 				E48EFB712BAC64C90015A7D1 /* ToDoListView.swift in Sources */,
 				E48EFB772BAC652D0015A7D1 /* RegisterView.swift in Sources */,
+				E48EFB8F2BB80C040015A7D1 /* TLButton.swift in Sources */,
 				E48EFB812BAC67110015A7D1 /* ProfileViewViewModel.swift in Sources */,
 				E48EFB6F2BAC649A0015A7D1 /* ProfileView.swift in Sources */,
 				E48EFB7B2BAC669D0015A7D1 /* User.swift in Sources */,
